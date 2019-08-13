@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Running run_docker_tests.sh FAILED"
-exit 1
+echo "Running run_tests.sh"
+cd docker_test
+python manage.py migrate
