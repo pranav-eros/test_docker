@@ -1,0 +1,17 @@
+.vscode
+venv
+__pycache__
+*.DS_Store
+*.pyc
+*/.env
+.idea
+ErosUser/db.sqlite3
+ErosUser/static
+*.code-workspace
+ErosUser/.ipynb_checkpoints
+*.ipynb
+mounted_data
+ErosUser/htmlcov
+ErosUser/cover
+ErosUser/.coverage
+ErosUser/logs
